@@ -1,2 +1,2 @@
-module eclipse {
+interface eclipse {
 }
